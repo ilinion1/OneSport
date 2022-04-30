@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OneSport</string>
+    <string name="back">Back</string>
+    <string name="bet_info">Bet which team wins!</string>
+    <string name="place_info">Place your bet and get your winnings!</string>
+    <string name="info_3">The higher the difficulty level, \nthe lower the odds of winning!</string>
+    <string name="info_4">Have a good game and win!</string>
+    <string name="info_5">Good luck with you!</string>
+    <string name="level">Choose difficulty!</string>
+    <string name="coefficient">Coefficient:</string>
+    <string name="noMany">Not enough money!</string>
+    <string name="choice">Make a choice</string>
+    <string name="not_bet">Bet not placed</string>
+    <string name="win">Win!</string>
+    <string name="lose">Lose!</string>
+
+    <string name="facebook_app_id">428039685656372</string>
+    <string name="facebook_token">0MoOgXKYy6i2yPA78TtogXNaLTg</string>
+    <string name="apps_flyer_dev_key">FLHqGjbwNhK6gwNdJJBjsU</string>
+    <string name="one_signal">90d7967e-e16c-4883-aa56-3549eee1b185</string>
+
+</resources>
